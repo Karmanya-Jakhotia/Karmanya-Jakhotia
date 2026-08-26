@@ -4,7 +4,7 @@
 💻 Learning C++, Java & Python  
 🐧 Linux User  
 🌱 Currently exploring Web Development, Backend & Databases  
-⚡ Fun fact: I used to press the spacebar with my index finger till I was 17 😄  
+⚡ Fun fact: I used to press the spacebar with my index finger till I was 17 😄
 
 ---
 
@@ -40,21 +40,21 @@
 
 # 📊 GitHub Stats:
 
-![Karmanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karmanya-Jakhotia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Karmanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karmanya-Jakhotia&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karmanya-Jakhotia&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karmanya-Jakhotia&layout=compact&theme=dark&hide_border=false)
 
 ---
 
-# 📈 Most Used Languages:
+# 🔥 GitHub Streak:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karmanya-Jakhotia&theme=dark&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Karmanya-Jakhotia&theme=dark&hide_border=false)
 
 ---
 
 # 🐍 Contribution Snake:
 
-![snake gif](https://raw.githubusercontent.com/Karmanya-Jakhotia/Karmanya-Jakhotia/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Karmanya-Jakhotia/Karmanya-Jakhotia/output/github-snake-dark.svg)
 
 ---
 
